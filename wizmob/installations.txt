@@ -1,0 +1,8 @@
+expo install expo-camera
+expo install expo-permissions
+expo install expo-image-picker
+npm install --save react-native-vector-icons --save
+npm install react-native-camera --save
+npm install react-native-swiper --save
+npm install react-navigation-stack --save
+npm install react-navigation --save
